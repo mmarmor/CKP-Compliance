@@ -16,7 +16,7 @@ intro:
     in hac habitasse platea dictumst quisque sagittis purus sit. "
 # products: []
 values:
-  heading: Tortor at Auctor
+  heading: CKP Values
   text: Turpis massa tincidunt dui ut. Augue ut lectus arcu bibendum at. Tristique
     nulla aliquet enim tortor at auctor urna. Sit amet massa vitae tortor
     condimentum. Amet nisl purus in mollis nunc sed id. Cursus euismod quis
