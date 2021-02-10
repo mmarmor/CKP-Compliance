@@ -1,6 +1,6 @@
 ---
 title: Contact
-logo: img/kidney-partners-3.png
+logo: img/background1.jpg
 contact_entries:
   - heading: Working hours
     text: "Monday – Friday: 9 AM – 5 PM. We’re closed on Sundays"
