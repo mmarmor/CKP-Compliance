@@ -7,10 +7,10 @@ const HtmlWebpackPlugin = require("html-webpack-plugin");
 
 module.exports = {
   performance: {
-    maxEntrypointSize: 512000,
-    maxAssetSize: 512000
+    maxEntrypointSize: 5000000,
+    maxAssetSize: 5000000
   },
-  
+
   entry: {
     main: path.join(__dirname, "src", "index.js"),
     cms: path.join(__dirname, "src", "js", "cms.js"),
