@@ -14,7 +14,7 @@ intro:
     consectetur a erat. Nisi est sit amet facilisis. Blandit massa enim nec dui
     nunc mattis enim ut. Quis vel eros donec ac. In eu mi bibendum neque. Cursus
     in hac habitasse platea dictumst quisque sagittis purus sit. "
-products: []
+# products: []
 values:
   heading: Tortor at Auctor
   text: Turpis massa tincidunt dui ut. Augue ut lectus arcu bibendum at. Tristique
