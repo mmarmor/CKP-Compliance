@@ -7,11 +7,11 @@ contact_entries:
 ---
 We’d love to get in touch with you and hear your questions or concerns. We strive to improve constantly and your feedback is valuable.
 
-### Get in touch with CKP Compliance
+# Get in touch with CKP Compliance
 
 You can also use the form below for any inquiries about CKP Compliance.
 
-### Anonynomous Misconduct Incident Report
+# Anonynomous Misconduct Incident Report
 
 Do not use the contact form below to file an Anonynomous Misconduct Incident Report! Use this link instead:
 
