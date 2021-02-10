@@ -3,14 +3,11 @@ title: CKP Compliance
 subtitle: Carolina Kidney Partners is Committed to Compliance
 image: img/background1.jpg
 blurb:
-  heading: CKP Commitment Statement
-  text: Volutpat ac tincidunt vitae semper quis. Amet cursus sit amet dictum. Amet
-    cursus sit amet dictum sit amet justo donec. Ullamcorper sit amet risus
-    nullam eget felis eget nunc. Nullam ac tortor vitae purus. Dignissim
-    suspendisse in est ante. Sit amet consectetur adipiscing elit duis. Eget
-    aliquet nibh praesent tristique magna sit amet purus. Dignissim convallis
-    aenean et tortor at risus viverra adipiscing. Eget felis eget nunc lobortis
-    mattis.
+  heading: CKP Compliance Charter
+  text: Carolina Kidney Partners, LLC (CKP) compliance department supports CKP’s
+    commitment to the highest standards of ethics, integrity, and lawful conduct
+    by promoting adherence to all applicable federal, state, and local laws and
+    regulations.
 intro:
   heading: Facilisi Etiam Dignissim
   text: "Quis varius quam quisque id diam vel quam. Scelerisque in dictum non
